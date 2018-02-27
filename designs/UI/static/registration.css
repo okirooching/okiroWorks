@@ -1,0 +1,94 @@
+
+body,header,content,footer{
+display: block;
+}
+#bigwrapper{
+	background:  #dfe2db;
+}
+#container{
+	width: 950px;
+	margin: auto;
+	background: white;
+	box-shadow: 0px -1px 0px;
+	margin-top: 1px;
+	height: 400px;
+}
+#header{
+	padding-left:50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background:  #dfe2db;
+	box-shadow: 0px 1px 0px;
+}
+content{
+	text-align: center;
+}
+	
+#firstName{
+	margin-left: -405px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#lastName{
+	margin-left: -405px;
+	margin-bottom: 20px;
+}
+#emailAddress{
+	margin-left: -380px;
+	margin-bottom: 20px;
+}
+#password{
+	margin-left: -410px;
+	margin-bottom: 20px;
+}
+#cofirmPass{
+	margin-left: -400px;
+	margin-bottom: 20px;
+}
+#firstNameInput{
+	width: 350px;
+	margin-right: -50px;
+	margin-left: 30px;
+}
+#lastNameInput{
+	margin-left: 30px;
+	margin-right: -50px;
+}
+#emailInput{
+	margin-left: 30px;
+}
+#passInput{
+	margin-left: 30px;
+	margin-right: -65px;
+}
+#cofirmPassInput{
+	margin-left: 30px;
+}
+#container input{
+	width: 350px;
+}
+#content p{
+	margin-top: 30px;
+}
+#btnSave{
+	margin-top: 30px;
+}
+#footer{
+	background:  #dfe2db;
+	display: -webkit-box;
+	-webkit-box-orient:horizontal;
+}
+#footer .part1{
+	margin-top: 30px;
+	margin-left: 300px;
+	width: 300px;
+	margin-bottom: 50px;
+}
+#footer .part2{
+	margin-top: 30px;
+	width: 200px;
+	margin-bottom: 50px;
+}
+#footer label{
+	margin-bottom: 10px;
+}
